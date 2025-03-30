@@ -15,3 +15,7 @@ ehthumbs.db
 venv/
 .env/
 .venv/
+
+# CLion
+cmake-build-debug/
+*.iml
