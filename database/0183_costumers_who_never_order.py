@@ -1,3 +1,9 @@
+# Problem: 183. Customers Who Never Order
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/customers-who-never-order/
+
+
 import pandas as pd
 
 

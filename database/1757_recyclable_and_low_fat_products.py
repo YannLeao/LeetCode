@@ -1,3 +1,8 @@
+# Problem: 1757. Recyclable and Low Fat Products
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
+
 import pandas as pd
 
 

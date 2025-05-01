@@ -1,3 +1,8 @@
+# Problem: 1683. Invalid Tweets
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/invalid-tweets/
+
 import pandas as pd
 
 

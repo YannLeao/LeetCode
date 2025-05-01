@@ -1,3 +1,8 @@
+# Problem: 1148. Article Views I
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/article-views-i/
+
 import pandas as pd
 
 

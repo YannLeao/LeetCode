@@ -1,3 +1,8 @@
+# Problem: 595. Big Countries
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/big-countries/
+
 import pandas as pd
 
 

@@ -1,3 +1,8 @@
+# Problem: 1873. Calculate Special Bonus
+# Tags: Database
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/calculate-special-bonus/
+
 import pandas as pd
 
 
