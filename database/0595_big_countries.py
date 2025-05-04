@@ -1,4 +1,4 @@
-# Problem: 595. Big Countries
+# Problem: 0595. Big Countries
 # Tags: Database
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/big-countries/
