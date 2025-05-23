@@ -1,18 +1,18 @@
 # LeetCode Solutions
 
-> Este repositório contém minhas soluções para problemas do [LeetCode](https://leetcode.com/), como parte dos meus estudos em algoritmos, estrutura de dados e análise de dados.
+> This repository contains my solutions to [LeetCode](https://leetcode.com/) problems, as part of my studies in algorithms, data structures and data analysis.
 
-## Progresso
+## Progress
 <div align="center" justify="center">
-    <img src="https://leetcard.jacoblin.cool/YannLeao?ext=heatmap&theme=transparent&border=0">
+<img src="https://leetcard.jacoblin.cool/YannLeao?ext=heatmap&theme=transparent&border=0">
 </div>
 
 ## Badges
 <div align="left">
-    <img src="assets/Badge_Introduction_to_Pandas.gif" width="10%">
+<img src="assets/Badge_Introduction_to_Pandas.gif" width="10%">
 </div>
 
-## Problemas Resolvidos
+## Solved Problems
 
 | Nº   | Problem                                                                                                               | Tags     | Difficulty                                                                                             | Language                                                                                             |
 |------|-----------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
