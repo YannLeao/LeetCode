@@ -11,7 +11,7 @@ difficulty_badges = {
 
 language_badges = {
     "py": "![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)",
-    "cpp": "![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)",
+    "cpp": "![C++](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white)",
     "sql": "![SQL](https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)"
 }
 
@@ -44,7 +44,7 @@ header = """# LeetCode Solutions
 
 ## Badges
 <div align="left">
-<img src="assets/Badge_Introduction_to_Pandas.gif" width="10%">
+<img src="_assets/Badge_Introduction_to_Pandas.gif" width="10%">
 </div>
 
 ## Solved Problems
