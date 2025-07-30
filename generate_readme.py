@@ -4,15 +4,14 @@ from pathlib import Path
 # Mapas de badges
 difficulty_badges = {
     "Easy": "![Easy](https://img.shields.io/badge/-Easy-8BC34A?style=flat-square&logo=leetcode&logoColor=white)",
-    "Medium": "![Medium](https://img.shields.io/badge/-Medium-FFA000?style=flat-square&logo=leetcode&logoColor=white)",
-    "Hard": "![Hard](https://img.shields.io/badge/-Hard-F44336?style=flat-square&logo=leetcode&logoColor=white)",
-    "Unknown": "![Unknown](https://img.shields.io/badge/-Unknown-grey?style=flat-square)"
+    "Medium": "![Medium](https://img.shields.io/badge/-Med.-FFA000?style=flat-square&logo=leetcode&logoColor=white)",
+    "Hard": "![Hard](https://img.shields.io/badge/-Hard-F44336?style=flat-square&logo=leetcode&logoColor=white)"
 }
 
 language_badges = {
     "py": "![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)",
     "cpp": "![C++](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white)",
-    "sql": "![SQL](https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)"
+    "sql": "![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)"
 }
 
 supported_extensions = {
@@ -35,7 +34,8 @@ folders = [f for f in root.iterdir() if f.is_dir() and f.name != ".git"]
 
 header = """# LeetCode Solutions
 
-> This repository contains my solutions to [LeetCode](https://leetcode.com/) problems, as part of my studies in algorithms, data structures and data analysis.
+> This repository contains my solutions to [LeetCode](https://leetcode.com/u/YannLeao/) problems, as part of my 
+studies in algorithms, data structures and data analysis.
 
 ## Progress
 <div align="center" justify="center">
@@ -45,6 +45,7 @@ header = """# LeetCode Solutions
 ## Badges
 <div align="left">
 <img src="_assets/Badge_Introduction_to_Pandas.gif" width="10%">
+<img src="_assets/Badge_SQL_50.gif" width="10%">
 </div>
 
 ## Solved Problems
@@ -61,7 +62,6 @@ for folder in sorted(folders):
             continue
 
         lang_key = supported_extensions[file.suffix]
-
         parts = file.stem.split('_', 1)
         if len(parts) != 2 or not parts[0].isdigit():
             continue
@@ -74,7 +74,7 @@ for folder in sorted(folders):
         tags = metadata_entry.get("tags", [folder.name.replace("_", " ").title()])
         tag = ", ".join(tags)
 
-        difficulty = metadata_entry.get("difficulty", "Unknown")
+        difficulty = metadata_entry.get("difficulty")
         difficulty_badge = get_badge(difficulty_badges, difficulty)
         language_badge = get_badge(language_badges, lang_key)
 

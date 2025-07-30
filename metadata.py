@@ -25,6 +25,10 @@ metadata = {
         'tags': ['String'],
         'difficulty': 'Medium'
     },
+    '0007': {
+        'tags': ['Math'],
+        'difficulty': 'Medium'
+    },
     '0009': {
         'tags': ['Math'],
         'difficulty': 'Easy'
@@ -92,6 +96,10 @@ metadata = {
     '0028': {
         'tags': ['String', 'String Matching', 'Two Pointers'],
         'difficulty': 'Easy'
+    },
+    '0029': {
+        'tags': ['Math', 'Bit Manipulation'],
+        'difficulty': 'Medium'
     },
     '0030': {
         'tags': ['Hash Table', 'Sliding Window', 'String'],
@@ -489,8 +497,16 @@ metadata = {
         'tags': ['Array', 'Binary Search', 'Two Pointers'],
         'difficulty': 'Medium'
     },
+    '0168': {
+        'tags': ['Math', 'String'],
+        'difficulty': 'Easy'
+    },
     '0169': {
         'tags': ['Array', 'Divide and Conquer', 'Hash Table'],
+        'difficulty': 'Easy'
+    },
+    '0171': {
+        'tags': ['Math', 'String'],
         'difficulty': 'Easy'
     },
     '0172': {
@@ -499,6 +515,10 @@ metadata = {
     },
     '0173': {
         'tags': ['Design', 'Stack', 'Tree'],
+        'difficulty': 'Medium'
+    },
+    '0175': {
+        'tags': ['Database'],
         'difficulty': 'Medium'
     },
     '0176': {
@@ -516,6 +536,14 @@ metadata = {
     '0180': {
         'tags': ['Database'],
         'difficulty': 'Medium'
+    },
+    '0181': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
+    '0182': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
     },
     '0183': {
         'tags': ['Database'],
@@ -641,6 +669,10 @@ metadata = {
         'tags': ['Binary Search Tree', 'Depth-First Search', 'Tree'],
         'difficulty': 'Medium'
     },
+    '0231': {
+        'tags': ['Math', 'Bit Manipulation', 'Recursion'],
+        'difficulty': 'Easy'
+    },
     '0234': {
         'tags': ['Linked List', 'Stack', 'Two Pointers'],
         'difficulty': 'Easy'
@@ -663,6 +695,10 @@ metadata = {
     },
     '0242': {
         'tags': ['Hash Table', 'Sorting', 'String'],
+        'difficulty': 'Easy'
+    },
+    '0258': {
+        'tags': ['Math', 'Number Theory'],
         'difficulty': 'Easy'
     },
     '0261': {
@@ -721,6 +757,10 @@ metadata = {
         'tags': ['Array', 'Breadth-First Search', 'Dynamic Programming'],
         'difficulty': 'Medium'
     },
+    '0326': {
+        'tags': ['Math', 'Recursion'],
+        'difficulty': 'Easy'
+    },
     '0328': {
         'tags': ['Linked List'],
         'difficulty': 'Medium'
@@ -735,6 +775,10 @@ metadata = {
     },
     '0338': {
         'tags': ['Bit Manipulation', 'Dynamic Programming'],
+        'difficulty': 'Easy'
+    },
+    '0342': {
+        'tags': ['Math', 'Recursion'],
         'difficulty': 'Easy'
     },
     '0345': {
@@ -893,6 +937,10 @@ metadata = {
         'tags': ['Breadth-First Search', 'Depth-First Search', 'Union Find'],
         'difficulty': 'Medium'
     },
+    '0550': {
+        'tags': ['Database'],
+        'difficulty': 'Medium'
+    },
     '0560': {
         'tags': ['Array', 'Hash Table', 'Prefix Sum'],
         'difficulty': 'Medium'
@@ -956,6 +1004,10 @@ metadata = {
     '0626': {
         'tags': ['Database'],
         'difficulty': 'Medium'
+    },
+    '0627': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
     },
     '0637': {
         'tags': ['Breadth-First Search', 'Depth-First Search', 'Tree'],
@@ -1197,6 +1249,10 @@ metadata = {
         'tags': ['Database'],
         'difficulty': 'Easy'
     },
+    '1084': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
     '1091': {
         'tags': ['Array', 'Breadth-First Search', 'Matrix'],
         'difficulty': 'Medium'
@@ -1240,6 +1296,10 @@ metadata = {
     '1174': {
         'tags': ['Database'],
         'difficulty': 'Medium'
+    },
+    '1179': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
     },
     '1192': {
         'tags': ['Biconnected Component', 'Depth-First Search', 'Graph'],
@@ -1333,6 +1393,10 @@ metadata = {
         'tags': ['Database'],
         'difficulty': 'Easy'
     },
+    '1407': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
     '1431': {
         'tags': ['Array'],
         'difficulty': 'Easy'
@@ -1398,6 +1462,10 @@ metadata = {
         'difficulty': 'Easy'
     },
     '1581': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
+    '1587': {
         'tags': ['Database'],
         'difficulty': 'Easy'
     },
@@ -1485,6 +1553,10 @@ metadata = {
         'tags': ['Database'],
         'difficulty': 'Easy'
     },
+    '1890': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
     '1905': {
         'tags': ['Database'],
         'difficulty': 'Medium'
@@ -1504,6 +1576,10 @@ metadata = {
     '1964': {
         'tags': ['Array', 'Binary Indexed Tree', 'Binary Search'],
         'difficulty': 'Hard'
+    },
+    '1965': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
     },
     '1978': {
         'tags': ['Database'],
@@ -1618,6 +1694,18 @@ metadata = {
         'difficulty': 'Easy'
     },
     '2891': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
+    '3436': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
+    '3465': {
+        'tags': ['Database'],
+        'difficulty': 'Easy'
+    },
+    '3570': {
         'tags': ['Database'],
         'difficulty': 'Easy'
     }
