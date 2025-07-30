@@ -1,5 +1,8 @@
-from metadata import metadata
+import json
 from pathlib import Path
+
+with open('metadata.json') as f:
+    metadata = json.load(f)
 
 # Mapas de badges
 difficulty_badges = {
