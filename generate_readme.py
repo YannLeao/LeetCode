@@ -47,6 +47,7 @@ studies in algorithms, data structures and data analysis.
 
 ## Badges
 <div align="left">
+<img src="_assets/Badge_50_Days.gif" width="10%">
 <img src="_assets/Badge_Introduction_to_Pandas.gif" width="10%">
 <img src="_assets/Badge_SQL_50.gif" width="10%">
 </div>
