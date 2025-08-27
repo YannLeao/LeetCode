@@ -969,7 +969,7 @@
     "tags": [
       "Database"
     ],
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   "0176": {
     "tags": [
@@ -1305,6 +1305,12 @@
       "Graph"
     ],
     "difficulty": "Medium"
+  },
+  "0262": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
   },
   "0269": {
     "tags": [
@@ -1808,6 +1814,12 @@
     ],
     "difficulty": "Easy"
   },
+  "0601": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
+  },
   "0602": {
     "tags": [
       "Database"
@@ -1826,6 +1838,12 @@
       "Database"
     ],
     "difficulty": "Easy"
+  },
+  "0608": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
   },
   "0610": {
     "tags": [
@@ -2402,6 +2420,12 @@
     ],
     "difficulty": "Easy"
   },
+  "1158": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
   "1161": {
     "tags": [
       "Breadth-First Search",
@@ -2594,6 +2618,12 @@
       "Database"
     ],
     "difficulty": "Easy"
+  },
+  "1393": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
   },
   "1407": {
     "tags": [
@@ -3100,11 +3130,35 @@
     ],
     "difficulty": "Easy"
   },
+  "3220": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3374": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
+  },
+  "3421": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
   "3436": {
     "tags": [
       "Database"
     ],
     "difficulty": "Easy"
+  },
+  "3451": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
   },
   "3465": {
     "tags": [
@@ -3112,10 +3166,94 @@
     ],
     "difficulty": "Easy"
   },
+  "3475": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3482": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
+  },
+  "3497": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3521": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3554": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3564": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
   "3570": {
     "tags": [
       "Database"
     ],
     "difficulty": "Easy"
+  },
+  "3580": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3586": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3601": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3611": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3617": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Hard"
+  },
+  "3626": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
+  },
+  "3642": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Easy"
+  },
+  "3657": {
+    "tags": [
+      "Database"
+    ],
+    "difficulty": "Medium"
   }
 }
