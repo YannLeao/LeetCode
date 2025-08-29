@@ -67,7 +67,7 @@ ListNode* createList(const std::vector<int>& values) {
     return head;
 }
 
-void printList(ListNode* head) {
+void printList(const ListNode* head) {
     while (head) {
         std::cout << head->val;
         if (head->next) std::cout << " -> ";
