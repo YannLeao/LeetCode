@@ -82,6 +82,7 @@
   },
   "0014": {
     "tags": [
+      "Array",
       "String",
       "Trie"
     ],
@@ -686,6 +687,13 @@
     ],
     "difficulty": "Easy"
   },
+  "0119": {
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "difficulty": "Easy"
+  },
   "0120": {
     "tags": [
       "Array",
@@ -1160,7 +1168,6 @@
   "0209": {
     "tags": [
       "Array",
-      "Binary Search",
       "Sliding Window"
     ],
     "difficulty": "Medium"
@@ -1475,6 +1482,13 @@
     ],
     "difficulty": "Easy"
   },
+  "0344": {
+    "tags": [
+      "String",
+      "Two Pointers"
+    ],
+    "difficulty": "Easy"
+  },
   "0345": {
     "tags": [
       "String",
@@ -1720,6 +1734,14 @@
     ],
     "difficulty": "Easy"
   },
+  "0498": {
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "difficulty": "Medium"
+  },
   "0502": {
     "tags": [
       "Array",
@@ -1811,6 +1833,13 @@
       "Database"
     ],
     "difficulty": "Medium"
+  },
+  "0557": {
+    "tags": [
+      "String",
+      "Two Pointers"
+    ],
+    "difficulty": "Easy"
   },
   "0560": {
     "tags": [
@@ -2102,6 +2131,13 @@
     "tags": [
       "Array",
       "Dynamic Programming"
+    ],
+    "difficulty": "Easy"
+  },
+  "0747": {
+    "tags": [
+      "Array",
+      "Sorting"
     ],
     "difficulty": "Easy"
   },
@@ -3083,6 +3119,13 @@
   "1978": {
     "tags": [
       "Database"
+    ],
+    "difficulty": "Easy"
+  },
+  "1991": {
+    "tags": [
+      "Array",
+      "Prefix Sum"
     ],
     "difficulty": "Easy"
   },
