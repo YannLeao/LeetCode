@@ -15,7 +15,8 @@ language_badges = {
     "py": "![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)",
     "cpp": "![C++](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white)",
     "sql": "![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)",
-    "sh": "![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)"
+    "sh": "![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)",
+    "pandas": "![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)"
 }
 
 supported_extensions = {
@@ -74,6 +75,9 @@ for folder in sorted(folders):
             continue
 
         lang_key = supported_extensions[file.suffix]
+        if lang_key == "py" and folder.name == "database":
+            lang_key = "pandas"
+
         parts = file.stem.split('_', 1)
         if len(parts) != 2 or not parts[0].isdigit():
             continue
