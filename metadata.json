@@ -1134,6 +1134,13 @@
     ],
     "difficulty": "Easy"
   },
+  "0203": {
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ],
+    "difficulty": "Easy"
+  },
   "0205": {
     "tags": [
       "Hash Table",
@@ -1277,7 +1284,8 @@
     "tags": [
       "Linked List",
       "Stack",
-      "Two Pointers"
+      "Two Pointers",
+      "Recursion"
     ],
     "difficulty": "Easy"
   },
@@ -1626,6 +1634,14 @@
       "Array",
       "Divide and Conquer",
       "Tree"
+    ],
+    "difficulty": "Medium"
+  },
+  "0430": {
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
     ],
     "difficulty": "Medium"
   },
@@ -2063,6 +2079,13 @@
     ],
     "difficulty": "Easy"
   },
+  "0707": {
+    "tags": [
+      "Linked List",
+      "Design"
+    ],
+    "difficulty": "Medium"
+  },
   "0712": {
     "tags": [
       "Dynamic Programming",
@@ -2330,6 +2353,14 @@
       "Array"
     ],
     "difficulty": "Easy"
+  },
+  "0966": {
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ],
+    "difficulty": "Medium"
   },
   "0976": {
     "tags": [
@@ -3101,6 +3132,13 @@
       "Database"
     ],
     "difficulty": "Medium"
+  },
+  "1935": {
+    "tags": [
+      "Hash Table",
+      "String"
+    ],
+    "difficulty": "Easy"
   },
   "1964": {
     "tags": [
